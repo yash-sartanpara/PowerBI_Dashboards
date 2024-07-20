@@ -1,2 +1,1 @@
 # PowerBI
-!Screenshot.png
